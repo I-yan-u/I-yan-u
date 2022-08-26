@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @I-yan-u
-- 👀 I’m interested in python for biomedical sciences
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on biological based python projeects
+- 👀 I’m interested in software engineering for biomedical sciences
+- 🌱 I’m currently learning Software engineering
+- 💞️ I’m looking to collaborate on biological based software projects
 - 📫 How to reach me: iyanuajimobi12@gmail.com
 
 <!---
